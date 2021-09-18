@@ -22,3 +22,4 @@ if name == "Ali":
     print("True")
 else:
     print("Fals")
+    
